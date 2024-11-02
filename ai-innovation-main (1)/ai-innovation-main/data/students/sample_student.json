@@ -1,0 +1,177 @@
+{
+    "studentInfo": {
+        "studentId": "23751234",
+        "name": "John Doe",
+        "degree": "Associate in Science",
+        "major": "Computer Science",
+        "classification": "Lower Sophomore",
+        "transferCredits": 6.0,
+        "academicStatus": "Good Academic Standing",
+        "gpa": 2.5,
+        "totalCredits": 39,
+        "auditDate": "2024-10-23T08:13:00"
+    },
+    "courseHistory": {
+        "completed": [
+            {
+                "semester": "SPRING 2022",
+                "courses": [
+                    {
+                        "code": "SOC 100",
+                        "name": "Introduction to Sociology",
+                        "credits": 3,
+                        "grade": "A",
+                        "transferredFrom": "LaGuardia CC"
+                    },
+                    {
+                        "code": "CSC 101",
+                        "name": "Principles In Info Tech & Comp",
+                        "credits": 3,
+                        "grade": "B-"
+                    },
+                    {
+                        "code": "CIS 200",
+                        "name": "Intro.Info System",
+                        "credits": 3,
+                        "grade": "C",
+                        "transferredFrom": "LaGuardia CC"
+                    }
+                ]
+            },
+            {
+                "semester": "SUMMER 2023",
+                "courses": [
+                    {
+                        "code": "MAT 206.5",
+                        "name": "Intermed Algebra & Precalculus",
+                        "credits": 4,
+                        "grade": "B+"
+                    },
+                    {
+                        "code": "SPE 100",
+                        "name": "Fund of Public Speaking",
+                        "credits": 3,
+                        "grade": "C+"
+                    }
+                ]
+            },
+            {
+                "semester": "FALL 2023",
+                "courses": [
+                    {
+                        "code": "ENG 101",
+                        "name": "English Composition",
+                        "credits": 3,
+                        "grade": "B"
+                    },
+                    {
+                        "code": "ECO 201",
+                        "name": "Macroeconomics",
+                        "credits": 3,
+                        "grade": "B"
+                    },
+                    {
+                        "code": "CSC 111",
+                        "name": "Introduction to Programming",
+                        "credits": 4,
+                        "grade": "C+"
+                    }
+                ]
+            }
+        ],
+        "inProgress": {
+            "semester": "FALL 2024",
+            "courses": [
+                {
+                    "code": "ANT 100",
+                    "name": "Introduction to Anthropology",
+                    "credits": 3,
+                    "grade": "IP"
+                },
+                {
+                    "code": "CSC 211",
+                    "name": "Adv. Programming Techniques",
+                    "credits": 3,
+                    "grade": "IP"
+                },
+                {
+                    "code": "ENG 201",
+                    "name": "Introduction to Literature",
+                    "credits": 3,
+                    "grade": "IP"
+                },
+                {
+                    "code": "MAT 301",
+                    "name": "Analytic Geometry & Calc I",
+                    "credits": 4,
+                    "grade": "IP"
+                }
+            ]
+        },
+        "unsuccessful": [
+            {
+                "semester": "SPRING 2022",
+                "courses": [
+                    {
+                        "code": "ENG 101",
+                        "name": "English Composition",
+                        "grade": "WU"
+                    },
+                    {
+                        "code": "MAT 206.5",
+                        "name": "Intermed Algebra & Precalculus",
+                        "grade": "W"
+                    },
+                    {
+                        "code": "SPE 100",
+                        "name": "Fund of Public Speaking",
+                        "grade": "W"
+                    }
+                ]
+            },
+            {
+                "semester": "FALL 2023",
+                "courses": [
+                    {
+                        "code": "MAT 301",
+                        "name": "Analytic Geometry & Calc I",
+                        "grade": "WU"
+                    }
+                ]
+            },
+            {
+                "semester": "SPRING 2024",
+                "courses": [
+                    {
+                        "code": "CSC 211",
+                        "name": "Adv. Programming Techniques",
+                        "grade": "WU"
+                    },
+                    {
+                        "code": "ENG 201",
+                        "name": "Introduction to Literature",
+                        "grade": "F"
+                    }
+                ]
+            }
+        ]
+    },
+    "requirements": {
+        "totalCreditsNeeded": 60,
+        "totalCreditsCompleted": 39,
+        "creditsRemaining": 21,
+        "writingIntensive": {
+            "completed": false,
+            "courses": []
+        },
+        "unmetRequirements": [
+            "PHY 215",
+            "CSC 215",
+            "CSC 231",
+            "CSC 331",
+            "CSC 350",
+            "MAT 302",
+            "Program Electives (6 credits needed)"
+        ]
+    }
+}

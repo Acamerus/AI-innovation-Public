@@ -1,0 +1,198 @@
+{
+    "totalCredits": 63,
+    "years": {
+        "year1": {
+            "semester1": {
+                "credits": 13,
+                "courses": [
+                    {
+                        "code": "MAT 206.5",
+                        "name": "Intermediate Algebra and Precalculus",
+                        "credits": 4
+                    },
+                    {
+                        "code": "ENG 101",
+                        "name": "English Composition",
+                        "credits": 3
+                    },
+                    {
+                        "code": "CSC 101",
+                        "name": "Principles in Information Technology and Computation",
+                        "credits": 3
+                    },
+                    {
+                        "code": "XXX xxx",
+                        "name": "Individual and Society",
+                        "credits": 3
+                    }
+                ]
+            },
+            "semester2": {
+                "credits": 17,
+                "courses": [
+                    {
+                        "code": "ENG 201",
+                        "name": "Introduction to Literature",
+                        "credits": 3
+                    },
+                    {
+                        "code": "CSC 111",
+                        "name": "Introduction to Programming",
+                        "credits": 4
+                    },
+                    {
+                        "code": "MAT 301",
+                        "name": "Analytic Geometry and Calculus I",
+                        "credits": 4
+                    },
+                    {
+                        "code": "SPE 100",
+                        "name": "Fundamentals of Public Speaking",
+                        "credits": 3
+                    },
+                    {
+                        "code": "XXX xxx",
+                        "name": "U.S. Experience in Its Diversity",
+                        "credits": 3
+                    }
+                ]
+            }
+        },
+        "year2": {
+            "semester3": {
+                "credits": 18,
+                "courses": [
+                    {
+                        "code": "PHY 215",
+                        "name": "University Physics",
+                        "credits": 4
+                    },
+                    {
+                        "code": "MAT 302",
+                        "name": "Analytic Geometry and Calculus II",
+                        "credits": 4
+                    },
+                    {
+                        "code": "CSC 211",
+                        "name": "Advanced Programming Techniques",
+                        "credits": 3
+                    },
+                    {
+                        "code": "CSC 231",
+                        "name": "Discrete Structures and Applications to Computer Science",
+                        "credits": 4
+                    },
+                    {
+                        "code": "XXX xxx",
+                        "name": "Program Elective",
+                        "credits": 3
+                    }
+                ]
+            },
+            "semester4": {
+                "credits": 15,
+                "courses": [
+                    {
+                        "code": "CSC 215",
+                        "name": "Fundamentals of Computer Systems",
+                        "credits": 3
+                    },
+                    {
+                        "code": "CSC 331",
+                        "name": "Data Structures",
+                        "credits": 3
+                    },
+                    {
+                        "code": "CSC 350",
+                        "name": "Software Development",
+                        "credits": 3
+                    },
+                    {
+                        "code": "XXX xxx",
+                        "name": "Program Elective",
+                        "credits": 3
+                    },
+                    {
+                        "code": "XXX xxx",
+                        "name": "World Cultures and Global Issues",
+                        "credits": 3
+                    }
+                ]
+            }
+        }
+    },
+    "prerequisites": [
+        {
+            "course": "CSC 111",
+            "requires": [
+                "CSC 101",
+                "MAT 206.5"
+            ]
+        },
+        {
+            "course": "MAT 301",
+            "requires": [
+                "MAT 206.5"
+            ]
+        },
+        {
+            "course": "MAT 302",
+            "requires": [
+                "MAT 301"
+            ]
+        },
+        {
+            "course": "CSC 211",
+            "requires": [
+                "CSC 111"
+            ]
+        },
+        {
+            "course": "CSC 215",
+            "requires": [
+                "CSC 111"
+            ]
+        },
+        {
+            "course": "CSC 231",
+            "requires": [
+                "CSC 111",
+                "MAT 301"
+            ]
+        },
+        {
+            "course": "CSC 331",
+            "requires": [
+                "CSC 211",
+                "CSC 231"
+            ]
+        },
+        {
+            "course": "CSC 350",
+            "requires": [
+                "CSC 211"
+            ]
+        }
+    ],
+    "programElectives": [
+        "CIS 317",
+        "CIS 345",
+        "CIS 359",
+        "CIS 362",
+        "CIS 364",
+        "CIS 385",
+        "CIS 395",
+        "CSC 103",
+        "GIS 201",
+        "CIS 316"
+    ],
+    "notes": [
+        "MAT 206.5 combines Intermediate Algebra, Trigonometry, and Precalculus",
+        "General Elective requirement of 6 credits can be fulfilled by MAT 206.5",
+        "Remaining 2 credits can be satisfied by taking STEM variants in the Common Core",
+        "SPE 102 is available as an alternative for non-native English speakers",
+        "PHY 215 requires MAT 302 as a co-requisite",
+        "6 credits of Program Electives are required",
+        "A Writing Intensive course is required for graduation"
+    ]
+}
