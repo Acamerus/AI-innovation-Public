@@ -134,10 +134,10 @@ Use this information to assist with student-related queries while maintaining co
 """
 
 
-with open("../../data/students/sample_student.json", encoding="utf-8") as f:
+with open("ai-innovation-main1/ai-innovation-main/data/students/sample_student.json", encoding="utf-8") as f:
     student_data = json.load(f)
 
-with open("../../data/cs_roadmap/roadmap.json", encoding="utf-8") as f:
+with open("ai-innovation-main1/ai-innovation-main/data/cs_roadmap/roadmap.json", encoding="utf-8") as f:
     roadmap = json.load(f)
 
 student_info = f"DegreeWorks: {student_data}"

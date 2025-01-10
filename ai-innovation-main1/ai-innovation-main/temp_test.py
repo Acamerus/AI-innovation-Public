@@ -6,7 +6,7 @@ BASE_URL = "http://100.103.35.20:1337/v1"
 CHAT_ENDPOINT = "/chat/completions"
 MODEL = "Replete-LLM-V2.5-Qwen-32b-IQ4_XS.gguf"
 
-with open("data\students\sample_student.json", encoding="utf-8") as f:
+with open("data/students/sample_student.json", encoding="utf-8") as f:
     student_data = json.load(f)
 
 with open("data/cs_roadmap/roadmap.json", encoding="utf-8") as f:
