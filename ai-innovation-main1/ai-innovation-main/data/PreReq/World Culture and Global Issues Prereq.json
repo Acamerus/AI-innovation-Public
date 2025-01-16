@@ -1,0 +1,1185 @@
+{
+  "WorldCultureandGlobalIssues": [
+    {
+      "courseCode": "Acl 195",
+      "courseTitle": "Literacy, Development, and Social Justice",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Afl 151",
+      "courseTitle": "Political Economy",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Afn 121",
+      "courseTitle": "History of African Civilization",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Afn 122",
+      "courseTitle": "African 1500 to Present",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Afn 128",
+      "courseTitle": "Black Women in the Americans and the Caribbean",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Afn 130",
+      "courseTitle": "The History of Haiti",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Afn 152",
+      "courseTitle": "The Black Radical Tradition",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Ant 100",
+      "courseTitle": "Introduction to Anthropology",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Ant 111",
+      "courseTitle": "Chinese Culture and Heritage (Same as ASN 111)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Ant 128",
+      "courseTitle": "Black Women in the Americas and the Caribbean (Same as AFN 128)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Ant 200",
+      "courseTitle": "Peoples & Cultures of Latin America and the Caribbean (Same as LAT 200)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 105",
+      "courseTitle": "Elementary Arabic I",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 106",
+      "courseTitle": "Elementary Arabic II",
+      "prerequisites": ["Arb 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 107",
+      "courseTitle": "Elementary Arabic for Speakers of Arabic *Proficiency Exam Required*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 121",
+      "courseTitle": "Elementary Intensive Arabic I & II",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 200",
+      "courseTitle": "Intermediate Arabic I",
+      "prerequisites": ["Arb 106", "Arb 107"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 210",
+      "courseTitle": "Intermediate Arabic II",
+      "prerequisites": ["Arb 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Arb 221",
+      "courseTitle": "Intermediate Intensive Arabic I & II",
+      "prerequisites": ["Arb 106", "Arb 121"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Asl 105",
+      "courseTitle": "Elementary American Sign Language I",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Asl 106",
+      "courseTitle": "Elementary American Sign Language II",
+      "prerequisites": ["Asl 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Asl 121",
+      "courseTitle": "Elementary Intensive ASL I & II",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Asn 111",
+      "courseTitle": "Chinese Culture and History",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 105",
+      "courseTitle": "Elementary Chinese I *Departmental Placement*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 106",
+      "courseTitle": "Elementary Chinese II",
+      "prerequisites": ["Chi 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 107",
+      "courseTitle": "Elementary Chinese for Heritage Speaker *Departmental Approval*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 170E",
+      "courseTitle": "Literature, Culture, and Civilization of China",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 200",
+      "courseTitle": "Intermediate Chinese I",
+      "prerequisites": ["Chi 106", "Chi 107"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 203",
+      "courseTitle": "Chinese Culture and Civilization",
+      "prerequisites": ["Chi 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 210",
+      "courseTitle": "Intermediate Chinese II",
+      "prerequisites": ["Chi 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 300",
+      "courseTitle": "Advanced Chinese *Placement Test*",
+      "prerequisites": ["Chi 210"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 411",
+      "courseTitle": "Modern Chinese Film",
+      "prerequisites": ["Chi 210"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 440",
+      "courseTitle": "20th Century Chinese literature",
+      "prerequisites": ["Chi 210", "Chi 411"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Chi 476",
+      "courseTitle": "Chinese Civilization and Language",
+      "prerequisites": ["Chi 106"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Com 255",
+      "courseTitle": "Intercultural Communication",
+      "prerequisites": ["Spe 100", "Spe 102"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Eco 151",
+      "courseTitle": "Political Economy of the Caribbean (Same as AFL 151)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 105",
+      "courseTitle": "Elementary French I *Departmental Placement*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 106",
+      "courseTitle": "Elementary French II",
+      "prerequisites": ["Frn 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 121",
+      "courseTitle": "Elementary Intensive French 1 & 2",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 200",
+      "courseTitle": "Intermediate French I",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 204",
+      "courseTitle": "French Film and Conversation",
+      "prerequisites": ["Frn 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 210",
+      "courseTitle": "Intermediate French II",
+      "prerequisites": ["Frn 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 221",
+      "courseTitle": "Intermediate Intensive French I & II",
+      "prerequisites": ["Frn 106", "Frn 121"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 265",
+      "courseTitle": "Children and Young Adult Literature in French *Placement Test*",
+      "prerequisites": ["Frn 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 280E",
+      "courseTitle": "French Caribbean Literature in Translation",
+      "prerequisites": ["Eng 101"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 281E",
+      "courseTitle": "French-Speaking Women Writers in Translation",
+      "prerequisites": ["Eng 101"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 300",
+      "courseTitle": "Advanced French",
+      "prerequisites": ["Frn 210"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 370",
+      "courseTitle": "Modern French Civilization",
+      "prerequisites": ["Frn 210"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 400",
+      "courseTitle": "Francophone Literature",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 430",
+        "Frn 435",
+        "Frn 440",
+        "Frn 446",
+        "Frn 456",
+        "Frn 460",
+        "Frn 461",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 430",
+      "courseTitle": "French Literature from the Middle Ages to the 17th Century",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 435",
+        "Frn 440",
+        "Frn 446",
+        "Frn 456",
+        "Frn 460",
+        "Frn 461",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 435",
+      "courseTitle": "French Literature from the 18th and 19th Centuries",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 430",
+        "Frn 440",
+        "Frn 446",
+        "Frn 456",
+        "Frn 460",
+        "Frn 461",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 440",
+      "courseTitle": "French Literature from the 20th and 21st Centuries",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 430",
+        "Frn 435",
+        "Frn 446",
+        "Frn 456",
+        "Frn 460",
+        "Frn 461",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 446",
+      "courseTitle": "Literature and Cinema from West Africa",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 430",
+        "Frn 435",
+        "Frn 440",
+        "Frn 456",
+        "Frn 460",
+        "Frn 461",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 456",
+      "courseTitle": "Advanced French Composition",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 430",
+        "Frn 435",
+        "Frn 440",
+        "Frn 446",
+        "Frn 460",
+        "Frn 461",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 461",
+      "courseTitle": "The Individual and Society in 19th Century French Literature",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 430",
+        "Frn 435",
+        "Frn 440",
+        "Frn 456",
+        "Frn 460",
+        "Frn 462"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 462",
+      "courseTitle": "History of French Drama and Theater",
+      "prerequisites": [
+        "Frn 300",
+        "Frn 400",
+        "Frn 430",
+        "Frn 435",
+        "Frn 440",
+        "Frn 456",
+        "Frn 460",
+        "Frn 461"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Frn 476",
+      "courseTitle": "Intermediate and Advanced French Abroad",
+      "prerequisites": ["Frn 106", "Frn 121"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Geo 100",
+      "courseTitle": "Introduction to Human Geography",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "His 121",
+      "courseTitle": "History of African Civilization (Same as AFN 121)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "His 122",
+      "courseTitle": "Africa 1500 to Present (Same as AFN 122)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "His 130",
+      "courseTitle": "History of Latin America (Same as LAT 130)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "His 131",
+      "courseTitle": "History of Dominican Republic (Same as LAT 131)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 105",
+      "courseTitle": "Elementary Italian I *Departmental Placement*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 106",
+      "courseTitle": "Elementary Italian II",
+      "prerequisites": ["Itl 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 121",
+      "courseTitle": "Elementary Intensive Italian 1 & 2",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 170E",
+      "courseTitle": "Literaturem, Culture and Civilization of Italy",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 200",
+      "courseTitle": "Intermediate Italian I",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 204",
+      "courseTitle": "Italian Film and Conversation",
+      "prerequisites": ["Itl 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 205E",
+      "courseTitle": "Italian Cinema in Context",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 210",
+      "courseTitle": "Intermediate Italian II",
+      "prerequisites": ["Itl 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 221",
+      "courseTitle": "Intermediate Intensive Italian 1 & 2",
+      "prerequisites": ["Itl 102", "Itl 106"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 260",
+      "courseTitle": "The Modern Italian Short Story",
+      "prerequisites": ["Itl 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 265",
+      "courseTitle": "Children and Young Adult Literature in Italian",
+      "prerequisites": ["Itl 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 300",
+      "courseTitle": "Advanced Italian",
+      "prerequisites": ["Itl 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 312E",
+      "courseTitle": "Modern Italian Theater",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Itl 330",
+      "courseTitle": "Survey of Italian Literature",
+      "prerequisites": ["Itl 210"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lat 130",
+      "courseTitle": "History of Latin America (Same as HIS 130)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lat 131",
+      "courseTitle": "History of the Dominican Republic",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lat 200",
+      "courseTitle": "People & Cultures of Latin America and the Caribbean",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lat 475",
+      "courseTitle": "Latin American & Caribbean Society *Study Abroad*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lin 140",
+      "courseTitle": "World/Global Englishes",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Mes 140",
+      "courseTitle": "Introduction to the Moving Image",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Mes 160",
+      "courseTitle": "World History of Animation",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Pol 111",
+      "courseTitle": "Politics of Technology and Science",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Prt 105",
+      "courseTitle": "Elementary Portuguese I",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Prt 106",
+      "courseTitle": "Elementary Portuguese II",
+      "prerequisites": ["Prt 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 105",
+      "courseTitle": "Elementary Spanish I *Departmental Placement*",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 106",
+      "courseTitle": "Elementary Spanish II",
+      "prerequisites": ["Spn 105"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 107",
+      "courseTitle": "Elementary Spanish for Speakers of Spanish I",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 108",
+      "courseTitle": "Elementary Spanish for Speakers of Spanish II",
+      "prerequisites": ["Spn 107"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 121",
+      "courseTitle": "Elementary Intensive Spanish 1 & 2",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 150",
+      "courseTitle": "Basic Spanish Conversation",
+      "prerequisites": ["Spn 106", "Spn 121"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 200",
+      "courseTitle": "Intermediate Spanish I",
+      "prerequisites": ["Spn 106", "Spn 121"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 204",
+      "courseTitle": "Spanish Film and Conversation",
+      "prerequisites": ["Spn 200", "Spn 108"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 207",
+      "courseTitle": "Intermediate Spanish for Speakers of Spanish *Proficiency Exam*",
+      "prerequisites": ["Spn 108"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 210",
+      "courseTitle": "Intermediate Spanish II",
+      "prerequisites": ["Spn 200"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 221",
+      "courseTitle": "Intermediate Intensive Spanish (1 & 2)",
+      "prerequisites": ["Spn 106", "Spn 121"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 300",
+      "courseTitle": "Advanced Spanish",
+      "prerequisites": ["Spn 210", "Spn 207"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 370",
+      "courseTitle": "Literature and Civilization of Latin America",
+      "prerequisites": ["Spn 207", "Spn 210"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 371",
+      "courseTitle": "Literature and Civilization of Spain",
+      "prerequisites": ["Spn 207", "Spn 210"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 400",
+      "courseTitle": "Latin American Women Writers",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 410",
+      "courseTitle": "Latin American Theater",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 420",
+      "courseTitle": "Introduction to Spanish Theatre",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 425",
+      "courseTitle": "Introduction to Spanish Poetry of the 20th Century",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 426",
+      "courseTitle": "Creative Writing in Spanish",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 430",
+      "courseTitle": "Medieval and Golden Ages Spanish Literature",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 435",
+      "courseTitle": "Spanish Literature of the 18th and 19th Centuries",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 439",
+      "courseTitle": "The Short Story in the Spanish Speaking Caribbean (Same as LAT 239)",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 440",
+      "courseTitle": "Spanish Literature of the 20th and 21st Centuries",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 445",
+      "courseTitle": "Colonial and 19th Century Latin American Literature",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 450",
+      "courseTitle": "Latin American Literature of the 20th and 21st Centuries",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 455",
+      "courseTitle": "Advanced Spanish Grammar and Composition",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 456",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 456",
+      "courseTitle": "Advanced Spanish Composition",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 472",
+      "courseTitle": "Literature, Culture and Civilization of the Greater Antilles",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 456",
+        "Spn 455",
+        "Spn 460",
+        "Spn 461",
+        "Spn 480"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 476",
+      "courseTitle": "Intermediate and Advanced Spanish Abroad",
+      "prerequisites": ["Spn 106", "Spn 121", "Spn 108"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 480",
+      "courseTitle": "Spanish and Latin American Texts into Films",
+      "prerequisites": [
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 456",
+        "Spn 455",
+        "Spn 460",
+        "Spn 461",
+        "Spn 472"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Trs 201",
+      "courseTitle": "Introduction to Translation and Interpretation Theory",
+      "prerequisites": ["Eng 101", "Spn 210", "Spn 221", "Spn 207"],
+      "prereqLogic": "MIXED",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Trs 233",
+      "courseTitle": "Spanish Translation & Interpretation for Healthcare",
+      "prerequisites": ["Trs 201", "Trs 206", "Lin 110"],
+      "prereqLogic": "MIXED",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Trs 237",
+      "courseTitle": "Editing for Translators",
+      "prerequisites": ["Trs 201", "Trs 206", "Lin 110"],
+      "prereqLogic": "MIXED",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Trs 238",
+      "courseTitle": "Introduction to Consecutive Interpretation",
+      "prerequisites": ["Trs 201", "Trs 206", "Lin 110"],
+      "prereqLogic": "MIXED",
+      "writingIntensive": false
+    }
+  ]
+}

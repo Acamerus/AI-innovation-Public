@@ -1,0 +1,130 @@
+{
+  "MajorPrereq": [
+    {
+      "courseCode": "Mat 206.5",
+      "courseTitle": "Intermediate Algebra and Precalculus",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Mat 301",
+      "courseTitle": "Analytic Geometry and Calculus I",
+      "prerequisites": ["Mat 206", "Mat 206.5"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Mat 302",
+      "courseTitle": "Analytic Geometry and Calculus II",
+      "prerequisites": ["Mat 301"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Eng 101",
+      "courseTitle": "English Composition",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Eng 201",
+      "courseTitle": "Introduction to Literature",
+      "prerequisites": ["Eng 101", "Eng 100.5"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 101",
+      "courseTitle": "Principles in Information Technology and Computation",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 111",
+      "courseTitle": "Introduction to Programming",
+      "prerequisites": ["Mat 206.5", "Csc 101"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 211",
+      "courseTitle": "Advanced Programming Techniques",
+      "prerequisites": ["Csc 111"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 215",
+      "courseTitle": "Fundamentals of Computer Systems",
+      "prerequisites": ["Csc 111"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 231",
+      "courseTitle": "Discrete Structures and Applications to Computer Science",
+      "prerequisites": ["Csc 111", "Mat 301"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 331",
+      "courseTitle": "Data Structures",
+      "prerequisites": ["Csc 211", "Csc 231"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Csc 350",
+      "courseTitle": "Software Development",
+      "prerequisites": ["Csc 211"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spe 100",
+      "courseTitle": "Fundamentals of Speech",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Phy 215",
+      "courseTitle": "University Physics I",
+      "prerequisites": ["Mat 302"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Xxx Individual and Society",
+      "courseTitle": "",
+      "prerequisites": ["One course from respective list"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Xxx U.S Experience in Its Diversity",
+      "courseTitle": "",
+      "prerequisites": ["One course from respective list"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Xxx World Cultures and Global Issues",
+      "courseTitle": "",
+      "prerequisites": ["One course from respective list"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Xxx Program Elective",
+      "courseTitle": "",
+      "prerequisites": ["Two courses from respective list"],
+      "prereqLogic": "TWO_OF",
+      "writingIntensive": false
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "IndividualandSociety": [
+    {
+      "courseCode": "Acl 200",
+      "courseTitle": "Literacy Practices: Birth through Adolescence",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Ant 115",
+      "courseTitle": "Language and Culture (same as LIN 100)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Com 100",
+      "courseTitle": "Introduction to Communication Studies",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Com 150",
+      "courseTitle": "Introduction to Digital Communication and Culture",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Com 240",
+      "courseTitle": "Interpersonal Communication",
+      "prerequisites": ["Spe 100"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Crt 100",
+      "courseTitle": "Critical Thinking (same as PHI 115)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Crt 100.5",
+      "courseTitle": "Critical Thinking for Reading and Writing (same as Crt 100)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Crt 100.6",
+      "courseTitle": "Critical Thinking for ESL 95 (same as Crt 100)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lin 100.6",
+      "courseTitle": "Language and Culture for ESL 95",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Crt 120",
+      "courseTitle": "Critical Thinking and Social Justice",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Crt 196",
+      "courseTitle": "Queer Theories",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Crt 245",
+      "courseTitle": "Critical Thinking and Media Literacy",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Eco 100",
+      "courseTitle": "Introduction to Economics",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Eco 202",
+      "courseTitle": "Microeconomics",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Gws 100",
+      "courseTitle": "Introduction to Gender and Women’s Studies",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Hed 190",
+      "courseTitle": "Human Sexuality and Society",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "His 101",
+      "courseTitle": "Western Civilization: From Ancient to Early Modern Times",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "His 102",
+      "courseTitle": "Western Civilization: The Emergence of the Modern World",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Hsd 108",
+      "courseTitle": "Health, Illness & Society",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Lin 100",
+      "courseTitle": "Language and Culture (same as Ant 115)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Mes 152",
+      "courseTitle": "Introduction to Contemporary Media",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Phi 100",
+      "courseTitle": "Philosophy",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Phi 115",
+      "courseTitle": "Critical Thinking (Same as Crt 100)",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Phi 120",
+      "courseTitle": "Ethics",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Phi 125",
+      "courseTitle": "Philosophy of Psychology",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Pol 110",
+      "courseTitle": "Introduction to Politics",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Pol 120",
+      "courseTitle": "Gender and Politics",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Soc 100",
+      "courseTitle": "Introduction to Sociology",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Soc 111",
+      "courseTitle": "Understanding Technological Society",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 460",
+      "courseTitle": "Masculinities in Latin American Literature",
+      "prerequisites": ["Spn 211"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "Spn 461",
+      "courseTitle": "LGBTQ+ Literature in Spanish",
+      "prerequisites": [
+        "Spn 211",
+        "Spn 300",
+        "Spn 400",
+        "Spn 410",
+        "Spn 420",
+        "Spn 425",
+        "Spn 426",
+        "Spn 430",
+        "Spn 435",
+        "Spn 439",
+        "Spn 440",
+        "Spn 445",
+        "Spn 450",
+        "Spn 455",
+        "Spn 456",
+        "Spn 460",
+        "Spn 472",
+        "Spn 480",
+        "Spn 485"
+      ],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    }
+  ]
+}

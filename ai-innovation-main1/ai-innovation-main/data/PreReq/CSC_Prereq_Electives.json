@@ -1,0 +1,74 @@
+{
+  "CSC_Electivecourses": [
+    {
+      "courseCode": "CIS 317",
+      "courseTitle": "Introduction to Cryptography",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CIS 345",
+      "courseTitle": "Telecommunication Networks I",
+      "prerequisites": ["CSC 110", "CIS 165", "CSC 111"],
+      "prereqLogic": "OR",
+      "writingIntensive": true
+    },
+    {
+      "courseCode": "CIS 359",
+      "courseTitle": "Information Assurance",
+      "prerequisites": ["CSC 110", "CSC 111", "CIS 165"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CIS 362",
+      "courseTitle": "Cloud Computing",
+      "prerequisites": ["CSC 110", "CSC 111", "CIS 165"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CIS 364",
+      "courseTitle": "Mobile Device Programming",
+      "prerequisites": ["CSC 210"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CIS 385",
+      "courseTitle": "Web Programming I",
+      "prerequisites": ["CSC 110", "CSC 111"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CIS 395",
+      "courseTitle": "Database Systems I",
+      "prerequisites": ["CSC 110", "CSC 111"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CSC 103",
+      "courseTitle": "Introduction to Data Analytics",
+      "prerequisites": [],
+      "prereqLogic": "NONE",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "GIS 201",
+      "courseTitle": "Introduction to Geographic Methods",
+      "prerequisites": ["Geo 100", "Mat 56"],
+      "prereqLogic": "AND",
+      "writingIntensive": false
+    },
+    {
+      "courseCode": "CIS 316",
+      "courseTitle": "Introduction to Digital Forensics",
+      "prerequisites": ["CSC 110", "CSC 111", "CIS 165"],
+      "prereqLogic": "OR",
+      "writingIntensive": false
+    }
+  ]
+}
